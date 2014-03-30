@@ -1,0 +1,15 @@
+Hello :)
+
+Welcome to tutorial on Git
+
+As of now, we have installed the GIT software on Windows  by downloading it from	http://msysgit.github.io --> downlaod (1.9.0) beta Feb 17
+
+Next We installed the software
+
+Opneded git bash from start->programs->git->git bash
+
+we configured our user name and email address
+
+next we created a folder and "git init"ed
+
+now creating this first file README and going to do "git add", adn then "git commit"
